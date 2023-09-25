@@ -12,6 +12,8 @@ toc: true
 
 After using a Garmin training plan to perpare for the event, I was looking forward to a great ride. The ride was great, but it was a mixed bag and the effectiveness of the training is in question. The table below list key metrics on the history of my century rides. Power meteric, which are more important on a macro level, were only availible for a small number of rides. The goal of a century is a 20 mph average speed. Obiously a lot of the factors in achiving that are not related to my age and condition, chief among these factors are riding in a appropriate group, terrain and weather.
 
+{{<table "table-striped table-responsiver">}}
+
 | Date      | Title                        | Distance |    Time | Avg Speed | Avg HR | Avg Bike Cadence |
 | --------- | ---------------------------- | -------: | ------: | --------: | -----: | ---------------: |
 | 10/4/2014 | Martin's Tour of Richmond    |   101.68 | 5:14:56 |      19.4 |    147 |               83 |
@@ -27,6 +29,8 @@ After using a Garmin training plan to perpare for the event, I was looking forwa
 | 9/10/2016 | Lakes and Grapes 2016        |   100.04 | 5:50:39 |      17.1 |    139 |               71 |
 | 9/29/2012 | Organized with Ben King      |    101.2 | 6:16:07 |      16.1 |    119 |               71 |
 | 9/7/2013  | Lakes and Grapes 2013        |   102.03 | 7:21:09 |      13.9 |    125 |               78 |
+
+{{</table>}}
 
 Some notes on the results: The top entry was the Tour of Richmond almost ten years ago.  In the ride I was with a fast group for about 65 miles at about 21 mph. The final 35 was at about 16.6 mph. The recent ride, 2023, was ranked at 5 of 13, and had many more solo miles.
 
