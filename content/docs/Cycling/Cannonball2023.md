@@ -96,4 +96,4 @@ The plan started on April 2 with a 24 week duration. There was little if any dyn
 
 ![Plan Progression](/images/Cannonball/Progress.PNG)
 
-It look like things were going well for the first 12 weeks, that is nine week in the base stage and three in the build. Then the build was not happening. This may have been the results of over doing it and a few missed days. I never seemed to get back in the grove, possibly because I was using a static plan. It may be benifical to use the Intervals.icu charts along with the Garmin recommendaions to find the improvement.
+It look like things were going well for the first 12 weeks, that is nine weeks into the base stage and three in the build. Then the build was not happening. This may have been the results of over doing it and a few missed days. I never seemed to get back in the grove, possibly because I was using a static plan. It may be benifical to use the Intervals.icu charts along with the Garmin recommendaions to find the improvement.

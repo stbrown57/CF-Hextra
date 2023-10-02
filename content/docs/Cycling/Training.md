@@ -6,7 +6,7 @@ icon: "article"
 date: "2023-09-25T12:55:35-04:00"
 lastmod: "2023-09-25T12:55:35-04:00"
 draft: true
-toc: true
+toc: false
 ---
 I've tried Xert and SystemX, both were OK, but I wanted to get a base level using the free tools that are available. All training efforts are recored on Garmin Connect and Strava by default, and I can't see this changing. I started with Garmin's "Training Plans"
 
@@ -24,22 +24,25 @@ Strava has a number of "plans" based on Carmichael training system, it is not au
 
 ### Heart Rate
 
-
-
-
 {{<table "table-striped-columns table-responsive">}}
-
 | Zone | Low | High | Low % | High % |
-|----| ---- | ----| ----|----|
+|:----:| ----:| ----:| ----:|----:|
 | 1 | 102 | 112 | 51% | 60% |
 | 2 | 113 | 124 | 60% | 70 % |
 | 3 | 125 | 136 | 70% | 80% |
 | 4 | 137 | 148 | 80 % | 90% |
 | 5 | 149 | 160 | 90% | 100%|
-
-
 {{</table>}}
 
-
-
+{{<table "table-striped-columns table-sm table-responsive">}}
+|Zone| Low | %FTP | High |%FTP|
+|:----:|----:|----:|----:|----:|
+| 1| 0 | 0 | 127| 55% |
+|2 | 128 | 54% | 173 | 75% |
+| 3 |174 | 76% |207 | 90% |
+|4 | 208 | 91% | 242 | 105% |
+| 5 | 243 | 106% | 276 | 120% |
+| 6 | 278 | 121% | 345 | 150% |
+| 7 | >345 | > 150% | | |
+{{</table>}}
 
