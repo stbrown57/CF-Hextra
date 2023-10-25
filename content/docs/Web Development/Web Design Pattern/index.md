@@ -11,3 +11,5 @@ draft = true
 - [Material v3](https://m3.material.io/)
 - [MongoDB](https://www.mongodb.design/)
 - [Overview](https://designerup.co/blog/10-best-design-systems-and-how-to-learn-and-steal-from-them/)
+- [Webex Momentum](https://momentum.design/)
+- [Pajamas Github](https://design.gitlab.com/)
