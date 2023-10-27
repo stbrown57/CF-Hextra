@@ -18,13 +18,20 @@ My next bike will probably not be my last, I'm guessing there will be an E-assis
 
 ![Endurance CF 7 eTap](EnduranceCF7.PNG)
 
+{{% details title="Details" %}}
+
 - Disk Brakes
 - eTap Rival AXP drivetrain
 - Alloy Wheelset
 - Weight 8.62 kg (19 lb)
 - $2,999
 
+{{% /details %}}
+
+
 ![Endurance CF SLX](EnduranceCFSLX.PNG)
+
+{{% details title="Details" %}}
 
 - Disk Brakes
 - eTap Force (+$580)
@@ -35,10 +42,15 @@ My next bike will probably not be my last, I'm guessing there will be an E-assis
 - Carbon Cockpit
 - $5,499
 
+{{% /details %}}
+
 ![Aeroad CF SLX 7](AeroadCFSLX7.PNG)
+{{% details title="Details" %}}
 
 - Disk Brakes
 - eTap Rival AXP
 - Weight 8.22 kg (18 lb)
 - DT ARC 1600 Carbon
 - $4,499
+
+{{% /details %}}
