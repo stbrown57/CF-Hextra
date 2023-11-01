@@ -15,4 +15,3 @@ draft = true
 - [Pajamas Gitlab](https://design.gitlab.com/)
 - [Ant Design](https://ant.design/)
 - [Nord Health Design](https://nordhealth.design/)
-- [Carbon Design System](https://carbondesignsystem.com/)

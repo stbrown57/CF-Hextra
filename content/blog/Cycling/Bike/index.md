@@ -18,7 +18,7 @@ My next bike will probably not be my last, I'm guessing there will be an E-assis
 
 ![Endurance CF 7 eTap](EnduranceCF7.PNG)
 
-{{% details title="Details" %}}
+{{% details title="Details"  closed="true" %}}
 
 - Disk Brakes
 - eTap Rival AXP drivetrain
@@ -31,7 +31,7 @@ My next bike will probably not be my last, I'm guessing there will be an E-assis
 
 ![Endurance CF SLX](EnduranceCFSLX.PNG)
 
-{{% details title="Details" %}}
+{{% details title="Details"  closed="true" %}}
 
 - Disk Brakes
 - eTap Force (+$580)
@@ -45,7 +45,7 @@ My next bike will probably not be my last, I'm guessing there will be an E-assis
 {{% /details %}}
 
 ![Aeroad CF SLX 7](AeroadCFSLX7.PNG)
-{{% details title="Details" %}}
+{{% details title="Details"  closed="true" %}}
 
 - Disk Brakes
 - eTap Rival AXP
